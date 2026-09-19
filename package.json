@@ -2,7 +2,7 @@
     "name": "satquery-demo",
     "version": "0.1.0",
     "private": true,
-    "engines": {
+    "engines": { 
         "node": ">=22.13.0"
     },
     "scripts": {
